@@ -2,8 +2,12 @@
 
 body{
     margin: auto;
+    background: linear-gradient(to bottom, #0000FF, #87CEEB); 
+    height: 100vh;
+    margin: auto;  
+    justify-content: center;
+    align-items: center;     
     text-align: center;
-    background-color:whitesmoke;
 }
 
 .rosto{
