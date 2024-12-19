@@ -1,10 +1,5 @@
-:triangular_flag_on_post:
-Elaborei meu primeiro pequeno projeto para meu portifólio.
-<br>
-
-:pencil2:
-Criei um pequeno linktree com uma foto de apresentação e algumas redes sociais e também o meu perfil do GitHub, para ver meu repositório.
-<br>
+:rocket: 
+Desenvolvi meu primeiro projeto para o portfólio: um Linktree simples, que apresenta uma foto minha e links para minhas redes sociais, além de incluir o acesso ao meu perfil no GitHub, onde compartilho meus repositórios.
 
 :technologist:
 Tecnologias usadas:
